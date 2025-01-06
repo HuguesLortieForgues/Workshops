@@ -1,0 +1,70 @@
+StartDate,EndDate,Status,Progress,Duration (in seconds),Finished,RecordedDate,ResponseId,RecipientLastName,RecipientFirstName,RecipientEmail,ExternalReference,LocationLatitude,LocationLongitude,DistributionChannel,UserLanguage,Consent2,Consent3,Gender,Age,YearTeachingExperience,LevelTaught,TypeSchool,Geo,SubjectTaught,Q1,Q2,Q3,Q4,Q5
+Start Date,End Date,Response Type,Progress,Duration (in seconds),Finished,Recorded Date,Response ID,Recipient Last Name,Recipient First Name,Recipient Email,External Data Reference,Location Latitude,Location Longitude,Distribution Channel,User Language,"Taking Part
+
+
+	The purpose and details of this study have been explained to me.  I understand that this study is designed to further scientific knowledge and that all procedures have been approved by the Loughborough University Ethics Approvals (Human Participants) Sub-Committee.
+	I have read and understood the information sheet and this consent form. 
+	I have had an opportunity to ask questions about my participation.
+	I understand that taking part in the project will involve answering a short online survey.
+	I understand that I am under no obligation to take part in the study, have the right to withdraw from this study at any stage for any reason, and will not be required to explain my reasons for withdrawing.
+
+Use of Information
+
+
+	I understand that all the personal information I provide will be processed in accordance with data protection legislation on the public task basis and will be treated in strict confidence unless (under the statutory obligations of the agencies which the researchers are working with), it is judged that confidentiality will have to be breached for the safety of the participant or others or for audit by regulatory authorities.
+	I understand that information I provide will be used in presentations, in research reports, in project summaries, and/or used for further analyses.
+	I understand that personal information collected about me that can identify me, such as my name or where I live, will not be shared beyond the study team.","Consent to Participate
+
+Please tick one of the boxes below to confirm whether you Agree or Disagree.",What is your gender? - Selected Choice,What is your age?,How many years have you been employed as a teacher? (write 0 if currently in NQT year).,At what level are you teaching? - Selected Choice,Which of the following options best describes the type of school you currently work in? - Selected Choice,In which geographical area is your school located? - Selected Choice,What is the subject you teach for the majority of your teaching time? (primary school teachers of multiple subjects should select the first box) - Selected Choice,"Question: 
+
+Considering that we want to determine how effective Maths ABC is at improving students performance in maths, which approach do you find most persuasive?","In a few words, please tell us what information influenced your decision","Question: 
+
+Considering that we want to determine how effective Maths ABC is at improving students performance in maths, which approach do you find most persuasive?","In a few words, please tell us what information influenced your decision","Question: 
+
+Considering that we want to determine how effective Maths ABC is at improving students performance in maths, which approach do you find most persuasive?"
+"{""ImportId"":""startDate"",""timeZone"":""America/Denver""}","{""ImportId"":""endDate"",""timeZone"":""America/Denver""}","{""ImportId"":""status""}","{""ImportId"":""progress""}","{""ImportId"":""duration""}","{""ImportId"":""finished""}","{""ImportId"":""recordedDate"",""timeZone"":""America/Denver""}","{""ImportId"":""_recordId""}","{""ImportId"":""recipientLastName""}","{""ImportId"":""recipientFirstName""}","{""ImportId"":""recipientEmail""}","{""ImportId"":""externalDataReference""}","{""ImportId"":""locationLatitude""}","{""ImportId"":""locationLongitude""}","{""ImportId"":""distributionChannel""}","{""ImportId"":""userLanguage""}","{""ImportId"":""QID3""}","{""ImportId"":""QID4""}","{""ImportId"":""QID1210803849""}","{""ImportId"":""QID1210803850_TEXT""}","{""ImportId"":""QID9_TEXT""}","{""ImportId"":""QID10""}","{""ImportId"":""QID11""}","{""ImportId"":""QID12""}","{""ImportId"":""QID13""}","{""ImportId"":""QID89""}","{""ImportId"":""QID90_TEXT""}","{""ImportId"":""QID94""}","{""ImportId"":""QID95_TEXT""}","{""ImportId"":""QID98""}"
+05/11/2022 13:54,05/11/2022 13:54,0,100,38,1,05/11/2022 13:54,R_33sbFlbKtAogQHw,,,,,57.1453,-2.0945,anonymous,EN,,1,3,4,4,2,1,1,2,8,0,5,splendid,juggle
+05/11/2022 14:05,05/11/2022 14:10,0,100,294,1,05/11/2022 14:10,R_piVpwtpGN5yxnmp,,,,,53.4821,-2.5103,anonymous,EN,,1,2,24,4,2,1,1,1,0,3,7,visitor,achiever
+05/11/2022 14:06,05/11/2022 14:10,0,100,258,1,05/11/2022 14:10,R_4JIGDXHnIxBQHEl,,,,,53.6393,-1.5249,anonymous,EN,,1,2,31,9,5,4,1,1,5,6,3,pale,license
+05/11/2022 14:24,05/11/2022 14:25,0,100,53,1,05/11/2022 14:25,R_3lSNa4Ru6A1ss9H,,,,,53.5382,-1.0585,anonymous,EN,,1,1,25,,,,,,,,,,
+05/11/2022 14:14,05/11/2022 14:25,0,100,667,1,05/11/2022 14:25,R_2y1nul3ZaguG58Q,,,,,53.4595,-2.9538,anonymous,EN,,1,2,42,18,2,1,1,1,3,3,7,home,town
+05/11/2022 14:16,05/11/2022 14:28,0,100,693,1,05/11/2022 14:28,R_eFpygllSj5wzUDD,,,,,52.2462,-2.1778,anonymous,EN,,1,2,51,20,1,1,2,1,9,8,9,cheap,bent
+05/11/2022 14:22,05/11/2022 14:28,0,100,335,1,05/11/2022 14:28,R_1JJDTYKoy6w1QpG,,,,,51.3926,1.4046,anonymous,EN,,1,2,49,23,2,4,3,1,1,3,10,coach,chickens
+05/11/2022 14:18,05/11/2022 14:29,0,100,687,1,05/11/2022 14:29,R_1fg4EKd9SmWUc50,,,,,51.5095,-0.0955,anonymous,EN,,1,1,33,1,2,1,3,1,4,3,5,turkey,calculate
+05/11/2022 14:26,05/11/2022 14:31,0,100,271,1,05/11/2022 14:31,R_28TZubiW1gCTpET,,,,,55.9552,-3.2,anonymous,EN,,1,1,37,16,3,1,5,7,6,9,9,burly,
+05/11/2022 14:42,05/11/2022 14:47,0,100,305,1,05/11/2022 14:47,R_3QRCOT4U5EO3gmS,,,,,51.7219,0.4811,anonymous,EN,,1,2,27,7,2,1,3,1,7,1,1,,eyes
+05/11/2022 14:38,05/11/2022 14:47,0,100,514,1,05/11/2022 14:47,R_2zeYqR5RX0B0WZe,,,,,52.4867,-1.8989,anonymous,EN,,1,2,33,0,5,1,2,18,2,3,4,cheese,letter
+05/11/2022 14:42,05/11/2022 14:47,0,100,292,1,05/11/2022 14:47,R_3DiJTvVyXVM1w22,,,,,52.4173,-1.8844,anonymous,EN,,1,2,47,25,2,1,2,1,2,4,7,overflow,launch
+05/11/2022 14:42,05/11/2022 14:53,0,100,643,1,05/11/2022 14:53,R_3RxdR2wdHQD6lFa,,,,,52.5876,-1.9828,anonymous,EN,,1,2,59,0,2,1,2,1,0,2,3,cent,jobless
+05/11/2022 14:53,05/11/2022 14:57,0,100,262,1,05/11/2022 14:57,R_b9spTJZ4bhALeIV,,,,,51.4964,-0.1224,anonymous,EN,,1,2,30,5,2,1,3,1,6,7,9,deeply,chase
+05/11/2022 14:47,05/11/2022 15:00,0,100,784,1,05/11/2022 15:00,R_2WJ5y5N6Gh9xEo4,,,,,51.0594,-2.6736,anonymous,EN,,1,2,56,28,4,1,3,10,7,4,8,harass,juggle
+05/11/2022 14:50,05/11/2022 15:01,0,100,626,1,05/11/2022 15:01,R_3QGmmnS1qC6fDDC,,,,,51.5565,0.134,anonymous,EN,,1,2,49,18,5,1,3,18,7,0,10,route,achiever
+05/11/2022 14:55,05/11/2022 15:03,0,100,433,1,05/11/2022 15:03,R_By9GTF1JbTFYxNf,,,,,51.509,-0.1882,anonymous,EN,,1,2,41,8,2,1,2,1,4,6,8,plain,license
+05/11/2022 14:58,05/11/2022 15:04,0,100,356,1,05/11/2022 15:04,R_2qa7u4ob7AvUOL9,,,,,51.0686,-4.0203,anonymous,EN,,1,2,45,6,2,1,3,1,3,,6,selective,charge
+05/11/2022 15:06,05/11/2022 15:15,0,100,539,1,05/11/2022 15:15,R_2ctKHW6EJDQDxSi,,,,,51.4451,0.3763,anonymous,EN,,1,1,26,3,3,1,3,2,3,8,9,carve,town
+05/11/2022 15:11,05/11/2022 15:16,0,100,295,1,05/11/2022 15:16,R_30q4kEp2WAP26WF,,,,,50.8963,-1.0463,anonymous,EN,,1,2,57,31,2,1,3,2,2,5,2,,bent
+05/11/2022 15:09,05/11/2022 15:17,0,100,465,1,05/11/2022 15:17,R_3PzCUi904QCviUx,,,,,55.9139,-4.3311,anonymous,EN,,1,2,45,19,3,1,1,10,8,9,0,long-term,chickens
+05/11/2022 15:14,05/11/2022 15:19,0,100,304,1,05/11/2022 15:19,R_1OoYedCYWKKm3Mj,,,,,53.3262,-3.8278,anonymous,EN,,1,2,51,24,3,1,4,10,9,9,2,zesty,calculate
+05/11/2022 15:11,05/11/2022 15:19,0,100,516,1,05/11/2022 15:19,R_1fcIJNWhH37nxut,,,,,52.6513,-1.0876,anonymous,EN,,1,2,46,20,2,5,2,11,5,8,0,acidic,outgoing
+05/11/2022 15:10,05/11/2022 15:21,0,100,630,1,05/11/2022 15:21,R_2dKZdjDNAY4WhIp,,,,,52.4259,-1.4628,anonymous,EN,,1,1,36,11,3,1,2,10,5,3,,tiger,eyes
+05/11/2022 15:14,05/11/2022 15:21,0,100,394,1,05/11/2022 15:21,R_1PTM2tuzTGNvEjY,,,,,51.5095,-0.0955,anonymous,EN,,1,2,48,15,2,1,3,1,,3,2,horse,
+05/11/2022 15:16,05/11/2022 15:21,0,100,283,1,05/11/2022 15:21,R_2rSgVHlQ5I3ie92,,,,,52.949,1.209,anonymous,EN,,1,2,51,20,3,3,2,12,2,2,5,inexpensive,launch
+05/11/2022 15:11,05/11/2022 15:24,0,100,765,1,05/11/2022 15:24,R_1Kv6q5sSbafiHai,,,,,50.8032,-2.8537,anonymous,EN,,1,2,31,8,2,1,3,1,5,5,2,slim,jobless
+05/11/2022 15:14,05/11/2022 15:24,0,100,590,1,05/11/2022 15:24,R_37pnKTUNfxzcRnH,,,,,51.7241,-4.0637,anonymous,EN,,1,2,53,29,2,3,4,12,0,7,9,wide,chase
+05/11/2022 15:18,05/11/2022 15:25,0,100,408,1,05/11/2022 15:25,R_1qfeYJGRTRmn1eE,,,,,53.6202,-0.4837,anonymous,EN,,1,2,44,22,2,1,1,1,7,,3,drown,juggle
+05/11/2022 15:20,05/11/2022 15:30,0,100,607,1,05/11/2022 15:30,R_3MyuDcofXmozIWj,,,,,55.9495,-3.1983,anonymous,EN,,1,2,51,20,2,1,5,1,2,7,2,simple,achiever
+05/11/2022 15:21,05/11/2022 15:30,0,100,533,1,05/11/2022 15:30,R_3e8NZMGyq9kutUJ,,,,,52.6049,-1.1488,anonymous,EN,,1,2,54,30,1,1,2,1,4,3,4,parcel,license
+05/11/2022 15:19,05/11/2022 15:42,0,100,1423,1,05/11/2022 15:42,R_1Ng1quA5hmfLF7H,,,,,55.5626,-4.5028,anonymous,EN,,1,2,57,34,3,1,5,14,4,5,8,behavior,charge
+08/11/2022 07:24,08/11/2022 07:25,0,100,25,1,08/11/2022 07:25,R_2aeslN8EA4zYNaX,,,,,51.4964,-0.1224,anonymous,EN,,1,2,28,,,,,,4,2,3,found,town
+08/11/2022 07:24,08/11/2022 07:28,0,100,245,1,08/11/2022 07:28,R_1hGzHiixehki0Ub,,,,,51.3997,-0.2515,anonymous,EN,,1,1,32,6,2,1,5,12,3,9,10,icicle,bent
+08/11/2022 07:22,08/11/2022 07:29,0,100,394,1,08/11/2022 07:29,R_WBbLpGPHNcKGJ45,,,,,53.7678,-0.3005,anonymous,EN,,1,2,44,23,1,1,1,1,3,3,0,actor,chickens
+08/11/2022 07:22,08/11/2022 07:29,0,100,429,1,08/11/2022 07:29,R_3J2xw4Su3jygjXO,,,,,51.8167,-0.8055,anonymous,EN,,1,2,56,29,2,1,2,1,8,8,3,measure,calculate
+08/11/2022 07:25,08/11/2022 07:30,0,100,293,1,08/11/2022 07:30,R_WebkWCJUzouVRIJ,,,,,53.5012,-2.4112,anonymous,EN,,1,2,26,5,2,1,1,1,5,4,2,delirious,
+08/11/2022 07:26,08/11/2022 07:32,0,100,347,1,08/11/2022 07:32,R_3Eh6m6ziQ1NxqmI,,,,,51.5749,0.0869,anonymous,EN,,1,2,23,0,3,5,3,5,4,4,7,scatter,
+08/11/2022 07:27,08/11/2022 07:32,0,100,321,1,08/11/2022 07:32,R_3kpiB1X7OOUoLJG,,,,,53.3022,-2.2312,anonymous,EN,,1,2,30,3,1,1,1,1,2,,5,choke,letter
+08/11/2022 07:29,08/11/2022 07:32,0,100,235,1,08/11/2022 07:32,R_3RvXxxeJBtw6BAN,,,,,53.5095,-2.5876,anonymous,EN,,1,1,34,9,3,1,3,8,8,4,8,week,launch
+08/11/2022 07:28,08/11/2022 07:35,0,100,455,1,08/11/2022 07:35,R_1MwrG0uFZDFJLbj,,,,,52.4099,-1.8141,anonymous,EN,,1,1,50,13,2,1,2,1,9,8,6,ground,jobless
+08/11/2022 07:32,08/11/2022 07:37,0,100,310,1,08/11/2022 07:37,R_1M4Kf4x75NVIOwB,,,,,51.4428,0.0253,anonymous,EN,,1,2,30,1,5,4,3,11,1,6,6,null,chase
+08/11/2022 07:22,08/11/2022 07:40,0,100,1091,1,08/11/2022 07:40,R_veniZjmINxHb105,,,,,52.2018,-2.193,anonymous,EN,,1,1,43,11,2,1,3,1,4,6,3,start,town
+05/11/2022 15:11,05/11/2022 15:13,0,62,109,0,12/11/2022 14:13,R_wRfW6Q1HztFuUdX,,,,,,,anonymous,EN,,1,1,58,13,5,4,5,1,5,8,8,natural,bent
+08/11/2022 07:21,08/11/2022 07:22,0,20,94,0,15/11/2022 07:22,R_sgHkVPUXoujeWxr,,,,,,,anonymous,EN,,1,2,38,,,,,,6,1,4,lettuce,chickens
